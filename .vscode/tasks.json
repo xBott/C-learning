@@ -9,6 +9,7 @@
                 "-g",
                 "${workspaceFolder}/main.c",
                 "${workspaceFolder}/list/list.c",
+                "${workspaceFolder}/hash_table/hash_table.c",
                 "-o",
                 "${workspaceFolder}/main"
             ],
